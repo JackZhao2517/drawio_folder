@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T15:44:26.128Z" agent="5.0 (Macintosh)" etag="Il8Nv95Q_AWSVotoudNk" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T15:45:24.918Z" agent="5.0 (Macintosh)" etag="z3_-uqyoTZ0vZJ0RgT7S" version="13.10.2" type="github">
   <diagram id="xl6M9EQaSiFgEsb6ymEG" name="Page-1">
     <mxGraphModel dx="944" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -421,7 +421,7 @@
         <mxCell id="GCJxB1RPTs2br_yxcwbv-172" value="Desc" style="shape=partialRectangle;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#9673a6;" parent="GCJxB1RPTs2br_yxcwbv-170" vertex="1">
           <mxGeometry x="30" width="90" height="30" as="geometry" />
         </mxCell>
-        <object label="User_account" id="GCJxB1RPTs2br_yxcwbv-177">
+        <object label="Driver_account" id="GCJxB1RPTs2br_yxcwbv-177">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
             <mxGeometry x="493" y="625" width="145" height="180" as="geometry" />
           </mxCell>
@@ -846,7 +846,7 @@
         <mxCell id="GCJxB1RPTs2br_yxcwbv-314" value="Actual_time" style="shape=partialRectangle;connectable=0;fillColor=#647687;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#314354;fontColor=#ffffff;" parent="GCJxB1RPTs2br_yxcwbv-312" vertex="1">
           <mxGeometry x="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <object label="User_account" id="ZkZUkiDWdm4FwWsZ6An6-1">
+        <object label="Passenger_account" id="ZkZUkiDWdm4FwWsZ6An6-1">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
             <mxGeometry x="300" y="405" width="145" height="180" as="geometry" />
           </mxCell>
