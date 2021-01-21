@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T07:12:35.851Z" agent="5.0 (Macintosh)" etag="4Ge0X-bB_yoL6eB22wZB" version="14.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-21T07:16:50.186Z" agent="5.0 (Macintosh)" etag="6Jef2_nMMu3X91lJTX8b" version="14.1.9" type="github" pages="2">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="1395" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,13 +113,25 @@
           <mxGeometry x="280" y="80" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aTg5BuVHJrMheaPNKzdb-1" value="IBM Cloud" style="shape=mxgraph.ibm.box;prType=cloud;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="B3dLvujgC0S1AtSiqt7I-1" vertex="1">
-          <mxGeometry x="800" y="65" width="310" height="280" as="geometry" />
+          <mxGeometry x="780" y="52.5" width="300" height="347.5" as="geometry" />
         </mxCell>
-        <mxCell id="aTg5BuVHJrMheaPNKzdb-4" value="PostgreSQL" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" parent="aTg5BuVHJrMheaPNKzdb-1" vertex="1">
-          <mxGeometry x="70" y="80" width="60" height="60" as="geometry" />
+        <mxCell id="giSnZFZkKybSmA8vv5Uv-0" value="PostgreSQL-Dev" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="aTg5BuVHJrMheaPNKzdb-1">
+          <mxGeometry x="65" y="30" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aTg5BuVHJrMheaPNKzdb-5" value="Cloud Object Storage " style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/ObjectStorage.svg;" parent="aTg5BuVHJrMheaPNKzdb-1" vertex="1">
-          <mxGeometry x="180" y="80" width="60" height="60" as="geometry" />
+        <mxCell id="giSnZFZkKybSmA8vv5Uv-1" value="Cloud Object Storage-Dev " style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/ObjectStorage.svg;" vertex="1" parent="aTg5BuVHJrMheaPNKzdb-1">
+          <mxGeometry x="185" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giSnZFZkKybSmA8vv5Uv-2" value="PostgreSQL-Test" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="aTg5BuVHJrMheaPNKzdb-1">
+          <mxGeometry x="65" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giSnZFZkKybSmA8vv5Uv-3" value="Cloud Object Storage-Test " style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/ObjectStorage.svg;" vertex="1" parent="aTg5BuVHJrMheaPNKzdb-1">
+          <mxGeometry x="185" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giSnZFZkKybSmA8vv5Uv-4" value="PostgreSQL" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="aTg5BuVHJrMheaPNKzdb-1">
+          <mxGeometry x="65" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giSnZFZkKybSmA8vv5Uv-5" value="Cloud Object Storage " style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/ObjectStorage.svg;" vertex="1" parent="aTg5BuVHJrMheaPNKzdb-1">
+          <mxGeometry x="185" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aTg5BuVHJrMheaPNKzdb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="B3dLvujgC0S1AtSiqt7I-1" source="aTg5BuVHJrMheaPNKzdb-0" target="aTg5BuVHJrMheaPNKzdb-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
