@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T04:43:09.934Z" agent="5.0 (Macintosh)" etag="iVj_joNCzRryADc4uSlS" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T04:43:47.115Z" agent="5.0 (Macintosh)" etag="dqFW9WJ4FadZIDhbGu0m" version="14.1.9" type="github">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="1186" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,8 +130,8 @@
         <mxCell id="aTg5BuVHJrMheaPNKzdb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="B3dLvujgC0S1AtSiqt7I-1" source="aTg5BuVHJrMheaPNKzdb-33" target="aTg5BuVHJrMheaPNKzdb-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="455" y="380" />
-              <mxPoint x="295" y="380" />
+              <mxPoint x="415" y="380" />
+              <mxPoint x="275" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -158,9 +158,7 @@
         <mxCell id="aTg5BuVHJrMheaPNKzdb-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="B3dLvujgC0S1AtSiqt7I-1" source="aTg5BuVHJrMheaPNKzdb-49" target="aTg5BuVHJrMheaPNKzdb-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="525" y="415" />
-              <mxPoint x="500" y="415" />
-              <mxPoint x="500" y="360" />
+              <mxPoint x="485" y="360" />
               <mxPoint x="420" y="360" />
             </Array>
           </mxGeometry>
