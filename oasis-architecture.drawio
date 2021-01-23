@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T03:06:14.377Z" agent="5.0 (Macintosh)" etag="XNg5nzGaB2-ATvy8_jeV" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-23T04:22:29.781Z" agent="5.0 (Macintosh)" etag="MfTvaqkvmGZJ_cs5edwN" version="14.1.9" type="github" pages="3">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="1395" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -591,7 +591,7 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-2" value="TaskManager" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-0">
           <mxGeometry x="50" y="150" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-3" value="RuleSet Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-3" value="Workflow Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
           <mxGeometry x="520" y="300" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-4" value="ProjectRule" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-3">
@@ -609,8 +609,14 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-9" target="CL3oBxSrVIg1wxEKygKf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.305;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-9" target="CL3oBxSrVIg1wxEKygKf-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.305;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-12" target="CL3oBxSrVIg1wxEKygKf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="230" />
+              <mxPoint x="330" y="300" />
+              <mxPoint x="307" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-9" value="UI Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
           <mxGeometry x="10" y="30" width="190" height="490" as="geometry" />
@@ -630,7 +636,7 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-25" value="Notification&#xa; Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
           <mxGeometry x="40" y="320" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-27" value="Rules &#xa;Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-27" value="Workflow &#xa;Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
           <mxGeometry x="40" y="390" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-12" target="CL3oBxSrVIg1wxEKygKf-0">
@@ -668,10 +674,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-28" value="Logging Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
-          <mxGeometry x="247.5" y="550" width="195" height="140" as="geometry" />
+          <mxGeometry x="250" y="550" width="470" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-29" value="log Controller" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-28">
-          <mxGeometry x="30" y="40" width="140" height="50" as="geometry" />
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-29" value="Log Controller" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-28">
+          <mxGeometry x="140" y="40" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
