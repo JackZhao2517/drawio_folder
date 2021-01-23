@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T02:40:55.142Z" agent="5.0 (Macintosh)" etag="cq62BZCrCVYcO6ppsx9p" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-23T02:41:54.282Z" agent="5.0 (Macintosh)" etag="yrUO8VzaupQRUc_Gqnv7" version="14.1.9" type="github" pages="3">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="1395" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -621,7 +621,7 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-11" value="CreateProject" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
           <mxGeometry x="40" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-15" value="Project &#xa;&#xa;Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-15" value="Project &#xa;Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
           <mxGeometry x="40" y="180" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-16" value="User Profile" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
@@ -630,7 +630,7 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-25" value="Notification&#xa; Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
           <mxGeometry x="40" y="320" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-27" value="Rules &#xa;&#xa;Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-27" value="Rules &#xa;Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="CL3oBxSrVIg1wxEKygKf-9">
           <mxGeometry x="40" y="390" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-12" target="CL3oBxSrVIg1wxEKygKf-0">
