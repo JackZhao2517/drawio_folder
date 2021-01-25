@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T14:06:40.798Z" agent="5.0 (Macintosh)" etag="IJ6dAkPRpGK--DEEAqM0" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-25T14:39:04.888Z" agent="5.0 (Macintosh)" etag="q4UyLQPMJ0UZSTolhde8" version="14.1.9" type="github" pages="4">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="1395" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -685,7 +685,7 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-28" target="CL3oBxSrVIg1wxEKygKf-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rNwuyaSnXvjH6LKJIgaG-0" value="BluePage Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
+        <mxCell id="rNwuyaSnXvjH6LKJIgaG-0" value="Risk check Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
           <mxGeometry x="10" y="620" width="195" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rNwuyaSnXvjH6LKJIgaG-1" value="BluePage interface" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" vertex="1" parent="rNwuyaSnXvjH6LKJIgaG-0">
@@ -695,7 +695,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UhzDBpDv2fpyJYPLZtIu" name="Data Model">
-    <mxGraphModel dx="1395" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qlU_3J8YrBFxAq5MqnY4-0" />
         <mxCell id="qlU_3J8YrBFxAq5MqnY4-1" parent="qlU_3J8YrBFxAq5MqnY4-0" />
