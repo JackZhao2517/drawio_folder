@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T15:19:34.635Z" agent="5.0 (Macintosh)" etag="glPpRYMaKGLyb7bK8HuG" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-25T15:20:01.722Z" agent="5.0 (Macintosh)" etag="zfbI1OAscqZpa9QqvPiG" version="14.1.9" type="github" pages="4">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2337" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qORVfOu435i-OJtuyrXC" name="Page-2">
-    <mxGraphModel dx="1186" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JrQJ0tFVrhgZ4r37ChDF-0" />
         <mxCell id="JrQJ0tFVrhgZ4r37ChDF-1" parent="JrQJ0tFVrhgZ4r37ChDF-0" />
@@ -564,7 +564,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ioNQgfpa777hBfCrJgo5" name="Component Model">
-    <mxGraphModel dx="1186" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gTN4WnTc6JvVCHpJycXx-0" />
         <mxCell id="gTN4WnTc6JvVCHpJycXx-1" parent="gTN4WnTc6JvVCHpJycXx-0" />
@@ -687,7 +687,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IBM Log DNA&lt;br&gt;&lt;/div&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#67AB9F;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
-          <mxGeometry x="10" y="530" width="820" height="80" as="geometry" />
+          <mxGeometry x="10" y="530" width="850" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
