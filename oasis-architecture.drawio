@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T14:26:28.153Z" agent="5.0 (Macintosh)" etag="pkt5aqDVPzwchbogQD3F" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-26T14:29:01.837Z" agent="5.0 (Macintosh)" etag="GEa9AsG9aZTiyJEGCojt" version="14.1.9" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2393" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1638,7 +1638,7 @@
         <mxCell id="bJQgZcUOJQ7qhsDJ2VKq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.28;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gari263iCUMt4Dl5vRZA-1" source="gari263iCUMt4Dl5vRZA-49" target="EkeZr5NF7jEErNgDUPsI-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gari263iCUMt4Dl5vRZA-49" value="Interface Service" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.appsync;" vertex="1" parent="gari263iCUMt4Dl5vRZA-1">
+        <mxCell id="gari263iCUMt4Dl5vRZA-49" value="Integration Service" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.appsync;" vertex="1" parent="gari263iCUMt4Dl5vRZA-1">
           <mxGeometry x="750" y="160" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="EkeZr5NF7jEErNgDUPsI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gari263iCUMt4Dl5vRZA-1" source="gari263iCUMt4Dl5vRZA-53" target="EkeZr5NF7jEErNgDUPsI-4">
