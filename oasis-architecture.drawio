@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T14:54:30.242Z" agent="5.0 (Macintosh)" etag="fYWGERCy7C6UCEy3uWyG" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-26T14:56:00.812Z" agent="5.0 (Macintosh)" etag="7orDsknK9Wb7ADTobffQ" version="14.1.9" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2393" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1622,11 +1622,13 @@
         <mxCell id="gari263iCUMt4Dl5vRZA-42" value="PostgreSQL" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_data_store;" vertex="1" parent="gari263iCUMt4Dl5vRZA-1">
           <mxGeometry x="410" y="606.63" width="54" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="EkeZr5NF7jEErNgDUPsI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gari263iCUMt4Dl5vRZA-1" source="gari263iCUMt4Dl5vRZA-45" target="EkeZr5NF7jEErNgDUPsI-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F88J8FVQLxbSsaPTC5qQ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gari263iCUMt4Dl5vRZA-1" target="EkeZr5NF7jEErNgDUPsI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226" y="50" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gari263iCUMt4Dl5vRZA-45" value="Single Sign-On" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.single_sign_on;" vertex="1" parent="gari263iCUMt4Dl5vRZA-1">
-          <mxGeometry x="209" y="10" width="60" height="90" as="geometry" />
+          <mxGeometry x="226" y="13" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bJQgZcUOJQ7qhsDJ2VKq-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gari263iCUMt4Dl5vRZA-1" source="gari263iCUMt4Dl5vRZA-49" target="EkeZr5NF7jEErNgDUPsI-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1662,7 +1664,7 @@
           <mxGeometry x="723.5" width="64.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EkeZr5NF7jEErNgDUPsI-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Blue Group&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=group" vertex="1" parent="gari263iCUMt4Dl5vRZA-1">
-          <mxGeometry x="70" y="18" width="50" height="52" as="geometry" />
+          <mxGeometry x="65" y="13" width="50" height="52" as="geometry" />
         </mxCell>
         <mxCell id="EkeZr5NF7jEErNgDUPsI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gari263iCUMt4Dl5vRZA-1" source="EkeZr5NF7jEErNgDUPsI-4" target="gari263iCUMt4Dl5vRZA-45">
           <mxGeometry relative="1" as="geometry">
