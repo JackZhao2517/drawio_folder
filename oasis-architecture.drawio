@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T12:28:09.469Z" agent="5.0 (Macintosh)" etag="M4V-aEt8akn0IxBJn_v-" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-28T12:31:47.994Z" agent="5.0 (Macintosh)" etag="7bk8BGiQPt9w3YlzXgyG" version="14.1.9" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2393" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1598,7 +1598,7 @@
         <mxCell id="rA0vIpms73okZDIS2rUG-98" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="rA0vIpms73okZDIS2rUG-97">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA0vIpms73okZDIS2rUG-99" value="XXXX" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="rA0vIpms73okZDIS2rUG-97">
+        <mxCell id="rA0vIpms73okZDIS2rUG-99" value="Read" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="rA0vIpms73okZDIS2rUG-97">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA0vIpms73okZDIS2rUG-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rA0vIpms73okZDIS2rUG-78">
