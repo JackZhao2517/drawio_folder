@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T12:31:47.994Z" agent="5.0 (Macintosh)" etag="7bk8BGiQPt9w3YlzXgyG" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-28T12:32:40.891Z" agent="5.0 (Macintosh)" etag="n58L65xNOZZylaZ-V5dE" version="14.1.9" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2393" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -695,9 +695,6 @@
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-5" target="CL3oBxSrVIg1wxEKygKf-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IBM Log DNA&lt;br&gt;&lt;/div&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#67AB9F;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="gTN4WnTc6JvVCHpJycXx-1">
-          <mxGeometry x="10" y="530" width="850" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
