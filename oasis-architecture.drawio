@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T12:32:40.891Z" agent="5.0 (Macintosh)" etag="n58L65xNOZZylaZ-V5dE" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-29T02:59:49.940Z" agent="5.0 (Macintosh)" etag="w0cgG_Y2bc00bxbyv3T7" version="14.1.9" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2393" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1820,7 +1820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rbmy2yS6_N5El43jVlde" name="Logic Architecture Overview">
-    <mxGraphModel dx="1157" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gari263iCUMt4Dl5vRZA-0" />
         <mxCell id="gari263iCUMt4Dl5vRZA-1" parent="gari263iCUMt4Dl5vRZA-0" />
