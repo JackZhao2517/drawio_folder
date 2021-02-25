@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T14:24:25.842Z" agent="5.0 (Macintosh)" etag="fb32cLkjYPNyNYAFk63I" version="14.4.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-25T14:27:15.257Z" agent="5.0 (Macintosh)" etag="jQn39mk_oqFBITDMRnsf" version="14.4.2" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2756" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -628,12 +628,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-3" value="OA-RuleSet Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="gTN4WnTc6JvVCHpJycXx-1" vertex="1">
-          <mxGeometry x="520" y="300" width="250" height="220" as="geometry" />
+          <mxGeometry x="520" y="300" width="370" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-4" value="OfferingtRule" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" parent="CL3oBxSrVIg1wxEKygKf-3" vertex="1">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-4" value="RulesetQAPath" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" parent="CL3oBxSrVIg1wxEKygKf-3" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-5" value="TaskRule" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" parent="CL3oBxSrVIg1wxEKygKf-3" vertex="1">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-5" value="RulesetTask" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" parent="CL3oBxSrVIg1wxEKygKf-3" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-6" value="OA-Notification Service" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=1;dashed=0;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="gTN4WnTc6JvVCHpJycXx-1" vertex="1">
@@ -701,8 +701,8 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-1" target="CL3oBxSrVIg1wxEKygKf-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="85" />
-              <mxPoint x="700" y="458" />
+              <mxPoint x="880" y="85" />
+              <mxPoint x="880" y="458" />
             </Array>
           </mxGeometry>
         </mxCell>
