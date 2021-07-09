@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T03:38:09.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="C4Sppqa-f7l8ibuzpE2r" version="14.8.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-09T03:38:30.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="L4bQC92fZ16zW7NMz5DG" version="14.8.4" type="github" pages="6">
   <diagram id="lAhwio3GkK_GUmbuqZyD" name="DevOpsOperational ">
     <mxGraphModel dx="2020" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -748,12 +748,13 @@
         <mxCell id="CL3oBxSrVIg1wxEKygKf-13" value="API Gateway" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#D5E8D4;" parent="CL3oBxSrVIg1wxEKygKf-12" vertex="1">
           <mxGeometry x="27.5" y="40" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CL3oBxSrVIg1wxEKygKf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-0" target="CL3oBxSrVIg1wxEKygKf-3" edge="1">
+        <mxCell id="CL3oBxSrVIg1wxEKygKf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="280" />
               <mxPoint x="705" y="280" />
             </Array>
+            <mxPoint x="705" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CL3oBxSrVIg1wxEKygKf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="gTN4WnTc6JvVCHpJycXx-1" source="CL3oBxSrVIg1wxEKygKf-3" target="CL3oBxSrVIg1wxEKygKf-0" edge="1">
