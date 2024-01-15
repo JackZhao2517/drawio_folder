@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T07:58:23.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="IKCx4nNIb82jOHEvqKJJ" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-15T07:59:00.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="f2FTvO9xRVvMagpwrqLY" version="22.1.18" type="github" pages="4">
   <diagram id="1vhN1cE_3x_gfNRDWmaL" name="solution architecture">
     <mxGraphModel dx="2040" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
         <mxCell id="hi7Q3FsL2skdmoKIpUvg-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.table;fillColor=#2E73B8;gradientColor=none;strokeColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="796.25" y="210" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJL0moLL-I5YZ-8fnEvM-1" value="OIC(Oracle REP)" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6666FF;" parent="1" vertex="1">
+        <mxCell id="BJL0moLL-I5YZ-8fnEvM-1" value="&lt;div&gt;OIC&lt;/div&gt;&lt;div&gt;(Oracle ERP)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="1180" y="248" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KQzRdymDwFLF4QxK1IQG-1" value="WebMethods" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/message_bus.svg;strokeColor=#6666FF;" parent="1" vertex="1">
